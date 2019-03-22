@@ -1,0 +1,27 @@
+{
+    "name": "Aplikasi Informasi Sepak Bola",
+    "gcm_sender_id": "968353302366",
+    "short-name": "Sepak Bola App",
+    "description": "Aplikasi Informasi Sepak Bola",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background-color": "##FFA07A",
+    "theme-color": "##FFA07A",
+    "icons": [
+        {
+            "src": "icon-128x128.png",
+            "size": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-192x192.png",
+            "size": "192x192",
+            "type": "image/png"
+        },        
+        {
+            "src": "icon-512x512.png",
+            "size": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
